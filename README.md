@@ -1,8 +1,14 @@
-Name:
+Name: Darryl Raveche
+ID: 915775008
 
-Compilation and Run Successful:
+Compilation and Run Successful: The program ran successfully, displaying
+a message that allows the user to input a number into the app, and displays a
+widget below stating the number they have inputted. The app somehow crashed
+when trying to input very large numbers however, probably because the number was
+larger than what an integer can hold.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Both tests worked out correctly, displayed the
+right information when running both files.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
